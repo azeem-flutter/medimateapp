@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817841211182",
+    "project_id": "medimateapp-400f6",
+    "storage_bucket": "medimateapp-400f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817841211182:android:db871730c0c5baa5fe9cbf",
+        "android_client_info": {
+          "package_name": "com.example.medimate_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTF6NKJ4GYEFPzbKQpceMnFJzk71LecJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
